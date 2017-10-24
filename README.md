@@ -9,3 +9,5 @@ Sample website with plenty of files for demos
 ## Deployment
 test1 .add to staging area
 ## How To Contribute
+new changes in working directory
+adding  new lines1
